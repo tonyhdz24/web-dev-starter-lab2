@@ -3,8 +3,6 @@
 ## Overview
 
 The purpose of this lab was to review HTML and identify any weak areas we may have when it comes to writing HTML.
-## Sources and Credits
-
 
 ## How to run code
 * To run the code open up your terminal and cd to the folder were you want to copy the repository to 
